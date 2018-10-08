@@ -7,3 +7,11 @@ In this repository i'm gonna implement some of Python Data Structures &amp; Algo
 
 ![logotype1blue](https://user-images.githubusercontent.com/35966401/46159772-eeb30400-c2a2-11e8-9d9b-e02907b9f081.png)
 
+```py
+def Algo():
+  return Algorithms 
+  
+if __name__ == "__main__":
+  Algo()
+  ```
+
