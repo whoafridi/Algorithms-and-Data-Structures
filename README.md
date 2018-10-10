@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structures-using-Python & Javascript 
+# Algorithms and Data Structures using Python & Javascript 
 In this repository i'm gonna implement some of Python Data Structures & Algorithms .i'll use Python 3.7  & also some JS stuff . Thank you !
 
 
