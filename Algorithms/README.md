@@ -18,6 +18,7 @@ if __name__ == "__main__":
   
   * Insertion sort
   * Merge sort 
+  * Quick sort
   * Bubble sort 
   
  
