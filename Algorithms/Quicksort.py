@@ -20,6 +20,9 @@ def Quicksort(L, low,high):
   Quicksort(L,p+1,high)
 
 if __name__ == "__main__":
-  l = [0,8,4,9,2,5]
-  Quicksort(l , 0, len(l)-1)
-  print(l)
+  arr = [10, 7, 8, 9, 1, 5] 
+  n = len(arr) 
+  Quicksort(arr,0,n-1) 
+  for i in range(n): 
+    print ("%d" %arr[i],end=' ')
+  
