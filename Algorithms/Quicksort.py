@@ -24,5 +24,7 @@ if __name__ == "__main__":
   n = len(arr) 
   Quicksort(arr,0,n-1) 
   for i in range(n): 
-    print ("%d" %arr[i],end=' ')
+    print ("%d" %arr[i],end=' ') ###  1, 5, 7, 8, 9, 10
+    
+  ### ### ### ### ###
   
