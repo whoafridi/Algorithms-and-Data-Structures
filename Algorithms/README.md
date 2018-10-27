@@ -2,8 +2,7 @@
 
 ```py
 def Algo():
-  return "Algorithms !"
- 
+  return 'Hi '
 if __name__ == "__main__":
   Algo()
 ```
@@ -20,6 +19,10 @@ if __name__ == "__main__":
   * Merge sort 
   * Quick sort
   * Bubble sort 
+
+* Greedy Algorithm
+  * Coin change
+  * Fractional knapsack 
   
  
-### More update coming soon ........
+### More update added soon ........
