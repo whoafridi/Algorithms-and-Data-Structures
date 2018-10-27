@@ -8,10 +8,15 @@
 as first import Quicksort as like 
 ```py
 import Quicksort as Q
-```
 
-After that Q. called a method of another file as like
+```
+Then  define a list 
+After that Q.Quicksort called a method of another file as like
 ```py
+# Define a list
+
 Q.Quicksort(L , low , high) #low should be 0 high == len(L)- 1
+print(L)  # print the list 
+
 ```
 Better understanding see the source code above .
