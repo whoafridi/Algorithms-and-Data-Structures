@@ -5,12 +5,7 @@ noofcoins = 0
 for i in range(len(BDT)):
   if (BDT[i] <= ammount):
     num = ammount // BDT[i]
-    amount -= num*BDT[i]
+    ammount -= num*BDT[i]
     noofcoins = num + noofcoins
 print('No. of Notes needed to pay 779 is :', noofcoins)
     
-
-
-
-    
- 
