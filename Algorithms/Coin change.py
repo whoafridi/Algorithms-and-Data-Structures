@@ -5,6 +5,7 @@ def min_coins(BDT,noofcoins,amount):
       num = amount // BDT[i]
       amount -= num*BDT[i]
       noofcoins = num + noofcoins
+      print(f'{BDT[i]} TK Needed coin = {num}')
   return noofcoins 
 
 if __name__ == '__main__' :
@@ -12,4 +13,5 @@ if __name__ == '__main__' :
   amount  = 779
   noofcoins = 0
   print('No. of notes Needed to pay :',min_coins(BDT,noofcoins,amount))
+  
   
