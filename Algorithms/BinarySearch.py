@@ -10,7 +10,7 @@ def BinarySearch(L, x):
             left = mid + 1
         else:
             right = mid - 1
-    return 'Not found  
+    return 'Not found '
     
 if __name__ == "__main__":
     List1 = [1, 2, 3, 5, 6, 7, 8, 9]
