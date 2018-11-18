@@ -1,11 +1,11 @@
 # Hi ! There .
 
-```py
+<pre>
 def Algo():
   return 'Hi '
 if __name__ == "__main__":
   Algo()
-```
+</pre>
 
 # Table of Contents
 * Searching Algorithms 
