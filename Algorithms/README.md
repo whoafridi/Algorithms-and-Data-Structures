@@ -1,28 +1,27 @@
 # Hi ! There .
-
-<pre>
-def Algo():
-  return 'Hi '
-if __name__ == "__main__":
-  Algo()
-</pre>
+#### In this repository i'm implemeted algorithms in Python .
 
 # Table of Contents
-* Searching Algorithms 
+***
+## *Searching Algorithms*
 
-  * Linear search
-  * Binary search
+  - [x] Linear search
+  - [x] Binary search
+***
 
-* Sorting Algorithms 
+## *Sorting Algorithms*
   
-  * Insertion sort
-  * Merge sort 
-  * Quick sort
-  * Bubble sort 
+  - [x] Insertion sort
+  - [x] Bubble sort 
+  - [x] Selection sort
+  - [x] Merge sort 
+  - [x] Quick sort
+  
+***
 
-* Greedy Algorithm
-  * Coin change
-  * Fractional knapsack 
+## *Greedy Algorithm*
+  - [x] Coin change
+  - [ ] Fractional knapsack 
   
  
 ### More update added soon ........
