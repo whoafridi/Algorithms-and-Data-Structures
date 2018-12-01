@@ -19,9 +19,13 @@
   
 ***
 
-## *Greedy Algorithm*
+## *Greedy Algorithms*
   - [x] Coin change
   - [ ] Fractional knapsack 
   
- 
+***
+
+
+- [x] Longest Common Subsequence
+###### *Dynamic programming yet to come*
 ### More update added soon ........
