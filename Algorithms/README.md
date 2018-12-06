@@ -21,7 +21,7 @@
 
 ## *Greedy Algorithms*
   - [x] Coin change
-  - [ ] Fractional knapsack 
+  - [x] Fractional knapsack 
   
 ***
 
