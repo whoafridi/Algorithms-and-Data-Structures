@@ -1,22 +1,26 @@
-# The Problem
-Sort an array using merge Sort
+# Merge Sort
 
-## Example
-```
-                    [97, 0, 22, -30]
-         __________________|__________________
-        |                                     |
-     [97, 0]                              [22, -30]
-  ______|______                         ______|______
- |             |                       |             |
-[97]          [0]                     [22]         [-30]
- |_____________|                       |_____________|
-        |                                     |
-     [0, 97]                              [-30, 22]  
-        |_____________________________________|
-                           |
-                    [-30, 0, 22, 97]
-```
+In computer science, merge sort (also commonly spelled 
+mergesort) is an efficient, general-purpose, 
+comparison-based sorting algorithm. Most implementations 
+produce a stable sort, which means that the implementation 
+preserves the input order of equal elements in the sorted 
+output. Mergesort is a divide and conquer algorithm that 
+was invented by John von Neumann in 1945.
+
+An example of merge sort. First divide the list into 
+the smallest unit (1 element), then compare each 
+element with the adjacent list to sort and merge the 
+two adjacent lists. Finally all the elements are sorted 
+and merged.
+
+![Merge Sort](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
+
+A recursive merge sort algorithm used to sort an array of 7 
+integer values. These are the steps a human would take to 
+emulate merge sort (top-down).
+
+![Merge Sort](https://upload.wikimedia.org/wikipedia/commons/e/e6/Merge_sort_algorithm_diagram.svg)
 
 ## Approach
 We usually need two function in case of merge sort. One function is used to sort two array and another one will merge them. 
@@ -27,3 +31,7 @@ We also use Recursion to simplify the process
 * Average complexity: ```n*log(n)```
 * Best complexity: ```n*log(n)```
 * Space complexity: ```n```
+
+## References
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
